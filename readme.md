@@ -14,7 +14,7 @@
     * Артикулы
 
 # Установка
-* git clone https://github.com/z-h-z-h/mindesign.git mindesign
+* git clone https://github.com/z-h-z-h/test-mindesign-catalog.git mindesign
 * composer install
 * cp .env.example .env
 * Настроить .env - URL проекта и MySQL
